@@ -1,0 +1,10 @@
+C:\Users\Marvin Mendez\Desktop\Universidad\Preespecialidad\06- Desarrollo de servicios SOAP\Primera Tarea\Client_WS-master\Client_WS\bin\Debug\Client_WS.exe.config
+C:\Users\Marvin Mendez\Desktop\Universidad\Preespecialidad\06- Desarrollo de servicios SOAP\Primera Tarea\Client_WS-master\Client_WS\bin\Debug\Client_WS.exe
+C:\Users\Marvin Mendez\Desktop\Universidad\Preespecialidad\06- Desarrollo de servicios SOAP\Primera Tarea\Client_WS-master\Client_WS\bin\Debug\Client_WS.pdb
+C:\Users\Marvin Mendez\Desktop\Universidad\Preespecialidad\06- Desarrollo de servicios SOAP\Primera Tarea\Client_WS-master\Client_WS\obj\Debug\Client_WS.csprojAssemblyReference.cache
+C:\Users\Marvin Mendez\Desktop\Universidad\Preespecialidad\06- Desarrollo de servicios SOAP\Primera Tarea\Client_WS-master\Client_WS\obj\Debug\Client_WS.Form1.resources
+C:\Users\Marvin Mendez\Desktop\Universidad\Preespecialidad\06- Desarrollo de servicios SOAP\Primera Tarea\Client_WS-master\Client_WS\obj\Debug\Client_WS.Properties.Resources.resources
+C:\Users\Marvin Mendez\Desktop\Universidad\Preespecialidad\06- Desarrollo de servicios SOAP\Primera Tarea\Client_WS-master\Client_WS\obj\Debug\Client_WS.csproj.GenerateResource.cache
+C:\Users\Marvin Mendez\Desktop\Universidad\Preespecialidad\06- Desarrollo de servicios SOAP\Primera Tarea\Client_WS-master\Client_WS\obj\Debug\Client_WS.csproj.CoreCompileInputs.cache
+C:\Users\Marvin Mendez\Desktop\Universidad\Preespecialidad\06- Desarrollo de servicios SOAP\Primera Tarea\Client_WS-master\Client_WS\obj\Debug\Client_WS.exe
+C:\Users\Marvin Mendez\Desktop\Universidad\Preespecialidad\06- Desarrollo de servicios SOAP\Primera Tarea\Client_WS-master\Client_WS\obj\Debug\Client_WS.pdb
